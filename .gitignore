@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+photos/
+site_libs/
+*.Rmd
+*.Rproj
