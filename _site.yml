@@ -9,6 +9,8 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
+    - text: "Photo Gallery"
+      href: photos.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
