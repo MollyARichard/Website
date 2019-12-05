@@ -16,5 +16,6 @@ navbar:
       href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/mollyarichard
-
-    
+  
+  output:
+    html_document:
