@@ -7,8 +7,7 @@ navbar:
       href: index.html
     - text: "CV"
       href: cv.html
-    - text: "Photos"
-      href: photos.html
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
