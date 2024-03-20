@@ -10,6 +10,5 @@ navbar:
     - text: "Contact"
       href: contact.html
 
-  output:
-    html_document: 
+
       
