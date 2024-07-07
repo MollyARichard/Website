@@ -1,7 +1,7 @@
-name: "Molly Richard"
+name: "Molly A. Conway"
 output_dir: "."
 navbar:
-  title: "Molly Richard"
+  title: "Molly Conway"
   left:
     - text: "About Me"
       href: index.html
@@ -9,6 +9,13 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
-
-
+  
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/mollyarichard
+  
+  output:
+    html_document: 
       
