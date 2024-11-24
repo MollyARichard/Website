@@ -1,5 +1,5 @@
 name: "Molly A. Conway"
-href: http://github.com/mollyarichard
+#href: http://github.com/mollyarichard
 output: 
  html_document:
   theme: darkly
