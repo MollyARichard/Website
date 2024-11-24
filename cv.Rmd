@@ -1,0 +1,42 @@
+---
+title: 'Molly A. Conway'
+output: html_document
+#    toc: true
+---
+ <div style= "float:right;position: relative; ">
+![](photos/molly1.jpg)
+</div>
+<font size = "5">
+**Abbreviated Curriculum Vitae**
+</br>
+**Publications** 
+</font size>
+</br><font size = "4">
+**Richard, M.A.**, S. Elliott, S.L. Hummel, D.A. Woolnough, L.D. Rzodkiewicz, S.P. Gill, J. Rappold, and M.L. Annis. 2024. Reduced freshwater mussel juvenile production as a result of agricultural and urban contaminant mixture exposures. Environmental Toxicology and Chemistry. *In Review* </br>
+Moniz, H.A., **M.A. Richard**, C.M. Gienger, and C.R. Feldman. 2021. Assessing metabolic costs of toxin resistance in garter snakes (Thamnophis). Integrative Zoology. https://doi.org/10.1111/1749-4877.12574
+</font size>
+
+<font size = "5">
+**Poster and Oral Presentations**
+</font size>
+</br><font size = "4">
+**Richard, M.** 2020. Plasma corticosterone mediates metabolic rate in Cottonmouth snakes. Thesis Defense Seminar. (Presentation)</br>
+**Richard, M.** and C.M. Gienger. 2020. Stress and Metabolism: Linking Corticosterone and Standard Metabolic Rate in Cottonmouth Snakes. Southeastern Partners in Amphibian and Reptile Conservation Conference. (Poster)</br>
+**Richard, M.** and C.M. Gienger. 2019. Standard Metabolism and Energetics of Ecdysis in Cottonmouth Snakes. Joint Meeting of Ichthyologists and Herpetologists. (Poster)
+</font size>
+
+<font size = "5">
+**Education**
+</font size></br>
+<font size = "4">
+**Austin Peay State University** | Clarksville, Tennessee | August 2018 – August 2020 
+</br>
+Master of Science: Biology, GPA: 4.00/4.00	</br>
+[Thesis](https://mollyarichard.github.io/AgPi-SMR-Prelim/) studied the relationship between stress and metabolism in Cottonmouths. 
+</br>
+**Iowa State University** | Ames, Iowa |	August 2010 - December 2014
+</br>
+Bachelor of Science: Animal Ecology, GPA: 3.05/4.00
+</br>
+Secondary Major: Environmental Studies
+</font size>

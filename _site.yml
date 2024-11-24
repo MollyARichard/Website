@@ -1,0 +1,17 @@
+name: "Molly A. Conway"
+href: http://github.com/mollyarichard
+output: 
+ html_document:
+  theme: darkly
+navbar:
+  title: "Molly Conway"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<mollyanneconway@gmail.com>
+
+
