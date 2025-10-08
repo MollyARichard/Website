@@ -2,7 +2,7 @@ name: "Molly A. Conway"
 #href: http://github.com/mollyarichard
 output:
  html_document:
-  theme: flatly
+  theme: journal
 navbar:
   title: "Molly Conway"
   left:
