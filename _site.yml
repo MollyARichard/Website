@@ -1,8 +1,8 @@
 name: "Molly A. Conway"
 #href: http://github.com/mollyarichard
-output: 
+output:
  html_document:
-  theme: darkly
+  theme: flatly
 navbar:
   title: "Molly Conway"
   left:
