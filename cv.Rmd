@@ -1,6 +1,6 @@
 ---
 title: 'Molly A. Conway'
-output: html_document
+output: html_notebook
 #    toc: true
 ---
  <div style= "float:right;position: relative; ">

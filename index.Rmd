@@ -1,6 +1,7 @@
 ---
 title: "Molly A. Conway, M.S."
-output: html_document
+output: html_notebook
+
 ---
 
 **Molly A. Conway, M.S.** I currently work for the the USGS at the Upper Midwest Water Science Center in the Michigan Bacteriologic Research Laboratory ([MIBaRL](https://www.usgs.gov/programs/environmental-health-program/science/bacteriological-research-lansing-michigan)) in Lansing, Michigan. My role includes analyzing environmental samples for harmful bacteria via molecular methods(e.g., DNA extraction, PCR). In addition to my role in the lab, I also spend time analyzing a variety of biological data and creating scientific products.
