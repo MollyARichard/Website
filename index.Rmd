@@ -2,11 +2,6 @@
 title: "Molly A. Conway, M.S."
 output: html_document
 ---
-::: {style="float:right ;position: relative;  "}
-![](photos/me.jpg)
-:::
-</br>
-</br>
 
 **Molly A. Conway, M.S.** I currently work for the the USGS at the Upper Midwest Water Science Center in the Michigan Bacteriologic Research Laboratory ([MIBaRL](https://www.usgs.gov/programs/environmental-health-program/science/bacteriological-research-lansing-michigan)) in Lansing, Michigan. My role includes analyzing environmental samples for harmful bacteria via molecular methods(e.g., DNA extraction, PCR). In addition to my role in the lab, I also spend time analyzing a variety of biological data and creating scientific products.
 </br>
@@ -18,17 +13,3 @@ I am an intermediate R coder. I have experience running parametric and non-param
 Living in lower-mitten-Michigan which gives me lots of opportunities to spend time outdoors enjoying some of my favorite things: herping, birding, fishing, kayaking, and camping. </br> </br> </br>
 </br>
 </br>
-
-::: {style="float:right;position: relative; "}
-![](photos/tracking.jpg)
-:::
-
-::: {style="float:left ;position: relative;  "}
-![](photos/molly2.jpg)
-:::
-
-::: {style="float:center; position: relative; right -60px"}
-![](photos/queen1.jpg)
-:::
-
-</font>
